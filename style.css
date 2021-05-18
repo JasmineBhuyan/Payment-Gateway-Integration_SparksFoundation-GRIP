@@ -1,0 +1,28 @@
+body{margin: 0px;} /*Removing boday margin*/
+
+/*Navigation Bar*/
+.bar{width:100%;overflow:hidden;display:inline-block;height:50px;}
+.black{color:#fff!important;background-color:#000!important}
+.button{color:#000;background-color:#f1f1f1;padding:8px 16px}
+.button:hover{color:#000!important;background-color:#ccc!important} 
+.bar-item{padding:8px 16px;float:left;background-color:inherit;color:inherit;width:auto;border:none;outline:none;display:block;text-decoration:none;}
+
+/*Description*/
+.container{padding:0.01em 16px}
+.center{text-align:center!important}
+.content{max-width:980px;margin:auto}
+.wide{font-family:"Segoe UI",Arial,sans-serif}
+.justify{text-align:justify!important}
+.opacity{opacity:0.60;}
+
+.light-grey{color:#000!important;background-color:#f1f1f1!important} /*Team Members*/
+
+/*Footer*/
+.padding-64{padding-top:64px!important;padding-bottom:64px!important}
+.xlarge{font-size:24px!important}
+.center{text-align:center!important}
+.fa{color: #fff; margin: 0 20px;}
+
+
+
+
